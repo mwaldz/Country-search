@@ -1,0 +1,60 @@
+body {
+	background: #4099FF;
+
+}
+
+h1  {
+
+color:white;
+text-align:center;
+margin-top:10%;
+font-family: 'Andika';font-size: 32px;
+}
+
+h2, h3  {
+
+color:white;
+text-align:center;
+font-family: 'Andika';font-size: 20px;
+}
+
+ul {
+color:white;
+text-align:center;
+font-family: 'Andika';font-size: 10px;
+
+}
+
+
+button.trigger{
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    background-color:transparent;
+    color:white;
+    font-family: 'Andika';font-size: 15px;
+    width:auto;
+}
+
+.tweet {
+	height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:53.5%;
+    font-family: 'Andika';font-size: 15px;
+    color:white;
+    
+
+
+}
+
+.fa {
+    transform: translateY(-4%);
+    color:#fff;
+    font-family: 'Andika';font-size: 15px;
+}
+
+
