@@ -37,24 +37,5 @@ button.trigger{
     width:auto;
 }
 
-.tweet {
-	height:20px; 
-    width:100px; 
-    margin: -20px -50px; 
-    position:relative;
-    top:50%; 
-    left:53.5%;
-    font-family: 'Andika';font-size: 15px;
-    color:white;
-    
-
-
-}
-
-.fa {
-    transform: translateY(-4%);
-    color:#fff;
-    font-family: 'Andika';font-size: 15px;
-}
 
 
