@@ -1,16 +1,16 @@
 body {
-	background: #4099FF;
+  background: #4099FF;
 
 }
 
-main{
+main {
   text-align: center;
   margin-top:200px;
   
 }
 h1  {
 
-color:white;
+color: #fff;
 text-align:center;
 margin-top:10%;
 font-family: 'Andika';font-size: 32px;
@@ -18,13 +18,13 @@ font-family: 'Andika';font-size: 32px;
 
 h2  {
 
-color:white;
+color: #fff;
 text-align:center;
 font-family: 'Andika';font-size: 20px;
 }
 
 ul {
-color:white;
+color: #fff;
 text-align:center;
 font-family: 'Andika';font-size: 10px;
 
@@ -35,7 +35,7 @@ font-family: 'Andika';font-size: 10px;
 button{
     position:relative;
     background-color:transparent;
-    color:white;
+    color: #fff;
     width:auto;
     font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
     padding:10px;
