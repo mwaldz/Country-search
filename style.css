@@ -1,7 +1,4 @@
-body {
-  background: #85144b;
 
-}
 
 main {
   text-align: center;
@@ -13,18 +10,20 @@ h1  {
 color: #fff;
 text-align:center;
 margin-top:10%;
-font-family: 'Andika';font-size: 32px;
+font-family: 'Calibri';font-size: 32px;
 }
 
 h2  {
 
 color: #fff;
 text-align:center;
-font-family: 'Andika';font-size: 20px;
+font-family: 'Calibri';font-size: 20px;
 }
 
 ul {
-list style-type: none;
+list-style-type: none;
+color: #fff;
+font-family: 'Calibri';font-size: 20px;
 }
 
 
@@ -34,7 +33,7 @@ button{
     background-color:transparent;
     color: #fff;
     width:auto;
-    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Calibri';
     padding:10px;
     border-radius:10px;
   
